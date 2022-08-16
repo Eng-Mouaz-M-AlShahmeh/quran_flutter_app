@@ -6,7 +6,7 @@ Developed by Eng Mouaz M AlShahmeh
 
 <div style="width: 100%">
   <span>
-    <img style="width:120px" src="https://user-images.githubusercontent.com/86870601/184919445-3be4db8a-1e18-4793-8129-921f0ce0b55e.png" />
+    <img style="width:250px" src="https://user-images.githubusercontent.com/86870601/184919445-3be4db8a-1e18-4793-8129-921f0ce0b55e.png" />
   </span>
    <span style="width: 15%"></span>
    <span style="width: 15%"></span>
